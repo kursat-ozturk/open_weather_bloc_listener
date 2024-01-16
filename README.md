@@ -1,16 +1,29 @@
 # open_weather_bloc_listener
 
-A new Flutter project.
+Open Weather App: 4 implementations through various combinations of Cubit, Bloc, StreamSubscription, and BlocListener
 
-## Getting Started
+## Current weather data by location
+- Latitude, longitude of the city by using openweathermap’s geocoding API
 
-This project is a starting point for a Flutter application.
+## Data - Direct Geocoding
 
-A few resources to get you started if this is your first Flutter project:
+## Data - Weather Icons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Weather App
+- Async Operation
+- Remote API call
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages:
+- https://pub.dev/packages/equatable
+  
+- https://pub.dev/packages/flutter_bloc
+  
+- https://pub.dev/packages/flutter_dotenv
+  
+- https://pub.dev/packages/http
+  
+- https://pub.dev/packages/recase
+
+## App Video:
+
+https://github.com/kursat-ozturk/open_weather_bloc_listener/assets/69029656/7c3e8d88-1996-41db-8e73-5de04ab1e4c9
